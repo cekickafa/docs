@@ -67,7 +67,8 @@
     [Put later phase-outs on hold proposal](https://forum.grin.mw/t/grin-improvement-proposal-1-put-later-phase-outs-on-hold-and-rephrase-primary-pow-commitment/4653)</br>
     [All about C31 fade out, the C29 scale and C32](https://forum.grin.mw/t/all-about-c31-fade-out-the-c29-scale-and-c32/6914)</br>
     [Being ASIC resistant or not](https://forum.grin.mw/t/being-asic-resistant-or-not/372)</br>
-    [Grin ASIC iPOLLO-G1 Mining Tutorial](https://forum.grin.mw/t/how-to-mine-grin-with-g1-mini-steps/9796)
+    [Grin ASIC iPOLLO-G1 Mining Tutorial](https://forum.grin.mw/t/how-to-mine-grin-with-g1-mini-steps/9796)</br>
+    [Grin SOLO Mining Private Pool Guide Tutorial](https://forum.grin.mw/t/solo-mining-private-pool-guide/10462)</br>
 
 ### Miscellaneous
 
